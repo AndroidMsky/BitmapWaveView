@@ -1,6 +1,9 @@
 # BitmapWaveView
 在bitmap中显示进度波浪
+转载请注明作者AndroidMsky和出处 
+http://blog.csdn.net/AndroidMsky/article/details/53520406
 
+觉得不错给个star，谢谢父老乡亲了
 
 ![这里写图片描述](http://img.blog.csdn.net/20161208155819269?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5kcm9pZE1za3k=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 可切换波澜4种状态：
