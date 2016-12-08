@@ -1,6 +1,13 @@
 # BitmapWaveView
 在bitmap中显示进度波浪
 
+
+![这里写图片描述](http://img.blog.csdn.net/20161208155819269?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5kcm9pZE1za3k=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+可切换波澜4种状态：
+
+![这里写图片描述](http://img.blog.csdn.net/20161208160012741?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5kcm9pZE1za3k=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
 ##使用方法：
 考入BitmapWave还是一个200行的小鬼：
 [BitmapWave.java](https://github.com/AndroidMsky/BitmapWaveView/blob/master/app/src/main/java/com/example/liangmutian/bitmapwaveview/BitmapWave.java)
