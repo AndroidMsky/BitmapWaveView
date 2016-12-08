@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/activity_main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bitmapwave="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+    <com.example.liangmutian.bitmapwaveview.BitmapWave
+        android:id="@+id/bitmapwave1"
+        bitmapwave:backbitmap="@mipmap/ic_launcher"
+        android:layout_width="200dp"
+
+        android:layout_height="200dp"
+        />
+    <com.example.liangmutian.bitmapwaveview.BitmapWave
+        android:id="@+id/bitmapwave3"
+        android:layout_below="@id/bitmapwave1"
+        bitmapwave:backbitmap="@mipmap/ic_launcher"
+        android:layout_width="150dp"
+
+        android:layout_height="150dp"
+        />
+
+    <Button
+        android:text="CHANGE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="change"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button2"/>
+
+    <com.example.liangmutian.bitmapwaveview.BitmapWave
+        android:id="@+id/bitmapwave2"
+        bitmapwave:backbitmap="@mipmap/q1"
+        bitmapwave:overColor="#eddf0e"
+        android:layout_width="100dp"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+
+</RelativeLayout>

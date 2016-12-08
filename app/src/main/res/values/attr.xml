@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="bitmapWave">
+        <attr name="backbitmap" format="reference"/>
+        <attr name="overColor" format="color"/>
+
+    </declare-styleable>
+</resources>
