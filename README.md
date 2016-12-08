@@ -3,6 +3,7 @@
 
 ##使用方法：
 考入BitmapWave还是一个200行的小鬼：
+[BitmapWave.java](https://github.com/AndroidMsky/BitmapWaveView/blob/master/app/src/main/java/com/example/liangmutian/bitmapwaveview/BitmapWave.java)
 
 两个自定义属性：
 
